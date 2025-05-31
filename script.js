@@ -1,3 +1,3 @@
 function sayHi() {
-  alert("Thanks for visiting! 🚀");
+  alert("Error 1");
 }
